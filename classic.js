@@ -219,7 +219,6 @@ const isUser = pengguna.includes(m.sender)
 const content = JSON.stringify(m.message)
 const numberQuery = text.replace(new RegExp("[()+-/ +/]", "gi"), "") + "@s.whatsapp.net"
 const mentionByTag = m.mtype == "extendedTextMessage" && m.message.extendedTextMessage.contextInfo != null ? m.message.extendedTextMessage.contextInfo.mentionedJid : []
-const Input = mentionByTag[0] ? mentionByTag[0] : q ? numberQuery : false
 const qtod = m.quoted? "true":"false"
 const contactsss = JSON.parse(fs.readFileSync("./pushkont/contacts.json"))
 const svcontact = JSON.parse(fs.readFileSync("./pushkont/svcontact.json"))
