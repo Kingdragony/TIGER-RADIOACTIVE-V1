@@ -1,21 +1,27 @@
 {
-"name": "haikal-hw",
-"version": "3.1.0",
+"name": "TIGER",
+"version": "3.6.0",
 "description": "WhatsApp Using Lib Baileys Multi Device",
 "main": "index.js",
 "type": "commonjs",
 "scripts": {
 "start": "node index.js"
-},
-"author": "Haikal Hw.",
+ },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1.git"
+ },
+"author": "ARLODRAGON.",
 "license": "MIT",
 "dependencies": {
-"@whiskeysockets/baileys" : "^github:WhiskeySockets/Baileys",
+"@whiskeysockets/baileys" : "github:anonphoenix007/Baileys-6.6.0",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@hapi/boom": "^10.0.1",
 "awesome-phonenumber": "^5.10.0",
-"@ffmpeg-installer/ffmpeg": "^1.1.0",
-"@whiskeysockets/baileys": "^6.6.6",
+"@fantox01/lyrics-scraper": "^3.0.1",
+"ffmpeg": "^0.0.4",
+"ffmpeg-static": "^5.1.0",
+"@whiskeysockets/baileys": "^6.6.0",
 "axios": "^1.4.0",
 "chalk": "^4.1.2",
 "js-cookie": "^3.0.5",
