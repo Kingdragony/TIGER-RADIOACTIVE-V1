@@ -10,7 +10,7 @@
 <a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-<a href="https://tigercodes-d2affec7cdbf.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
+<a href="https://tiger-radioactive-f1508ee3c04c.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
   
 𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗨𝗜𝗟𝗗𝗣𝗔𝗖𝗞𝗦.
                                
